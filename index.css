@@ -46,7 +46,7 @@
     flex-direction: row;
     align-items: flex-start;
     justify-content: center;
-    padding: 22px var(--padding-xl);
+    padding: 18px var(--padding-xl);
     box-sizing: border-box;
     gap: 9.7px;
     top: 0;
