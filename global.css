@@ -1,10 +1,8 @@
-body {
-    font-family: 'Inter';
-}
+
 
 :root {
     /* fonts */
-    --font-sf-pro: "Inter";
+    --font-sf-pro: "SF Pro";
     --font-jost: Jost;
     --font-inter: Inter;
 
